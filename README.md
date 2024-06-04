@@ -1,6 +1,7 @@
 <h1>Look up IP Address Location</h1>
-A simple PHP script that retrieves information and displays a Google map by IP address.
+Simple PHP script that returned information and displays a Google map by IP address.
 <h2>How to use</h2>
-In Google Maps Platform Tools have to configuration key API then assign it to variable  <code>$google_maps_key</code>
+In the Google Maps platform tools, you must configure the API key and then assign it to variable. <pre>$google_maps_key = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX';</pre> 
+<h2>Screenshot</h2>
 
-![IP_address_location](https://github.com/ufo1990/locationIP-with-google-map/assets/85555971/0c84ba28-2d79-414e-807d-47377bdb3056)
+![IP_address_location](https://github.com/ufo1990/LocationIP-with-google-map/assets/85555971/a513e3a1-7205-4efe-9d8f-1f7719589929)
